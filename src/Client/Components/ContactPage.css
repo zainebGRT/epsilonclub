@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+}
+* {
+    box-sizing: border-box;
+}
+h3{
+   padding-top: 20px;
+   color:white;
+}
+.header-contact{
+    color:rgb(79, 80, 90);
+    margin-top: 10px;
+    color:white;
+}
+.form-contact{
+    border: 1px  transparent;
+    width: 450px;
+    height: 580px;
+    line-height: 240% ;
+    background-color:#0E2C48 ;
+    margin: 40px 0px 0 50px;
+    text-align: center;  
+}
+.input-contact{
+    border-radius: 15px;
+    border: transparent;
+    height: 40px;
+    width: 365px;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-left: 40px;
+    background-color:rgb(79, 80, 90);
+}
+.footer-contact{
+    margin-top: 55px;
+}
+.footer{
+    color:white;
+}
+.btn{
+    height: 40px;
+    width: 365px;
+    margin-top: 25px;
+    margin-left: -5px;
+    border-radius: 15px;
+}
+.btn:hover {
+    opacity: 1;
+  }
+  .map-pic{
+    width: 50%;
+    height: 581px;
+    float: right;
+    margin: -1px 175px 0px 0px;
+  }

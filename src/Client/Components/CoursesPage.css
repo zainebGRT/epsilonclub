@@ -1,0 +1,15 @@
+.cours-présentielles {
+background-image: url(https://www.profpart.fr/assets/components/phpthumbof/cache/Tarifs%20pour%20un%20cours%20particulier.b8dbf4c9235ffb376d8e30dd7c98925f.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+.cours-présentielles h2 {
+    margin-top: 100px;
+    text-align: center; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cours-body h4{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
